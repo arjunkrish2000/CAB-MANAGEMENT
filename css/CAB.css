@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(35, 33, 33);
+}
+
+h1{
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
